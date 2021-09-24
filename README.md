@@ -20,7 +20,6 @@ Feel free to contact, criticize, help or ark me!
 - IG: [@dos2dio](https://www.instagram.com/dos2dio/)
 - LinkedIn: [Do Hyun Nam](https://www.linkedin.com/in/do-hyun-nam-4779051a9/?locale=en_US)
 - Website: [dhnam.me](https://dhnam.me)
-- [Instagram](https://instagram.com)
 
 
 <!--
