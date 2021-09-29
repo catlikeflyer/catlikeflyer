@@ -21,6 +21,7 @@ Feel free to contact, criticize, help or ark me!
 - LinkedIn: [Do Hyun Nam](https://www.linkedin.com/in/do-hyun-nam-4779051a9/?locale=en_US)
 - Website: [dhnam.me](https://dhnam.me)
 
+[![Do's Github Stats](https://github-readme-stats.vercel.app/api?username=dollis2002)](https://github.com/dollis2002/github-readme-stats)
 
 <!--
 **dollis2002/dollis2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
