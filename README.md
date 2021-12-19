@@ -17,9 +17,9 @@ More about me:
 - I'm a 🇰🇷 living in 🇲🇽
 
 Feel free to contact, criticize, help or ark me!
-- IG: [@dos2dio](https://www.instagram.com/dos2dio/)
-- LinkedIn: [Do Hyun Nam](https://www.linkedin.com/in/do-hyun-nam-4779051a9/?locale=en_US)
-- Website: [dhnam.me](https://dhnam.me)
+- IG: [@catlikeflyer](https://www.instagram.com/catlikeflyer/)
+- LinkedIn: [Do Hyun Nam](https://www.linkedin.com/in/dohyunnam)
+- Website: [dhnam.space](https://dhnam.space)
 
 [![Do's Github Stats](https://github-readme-stats.vercel.app/api?username=dollis2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
