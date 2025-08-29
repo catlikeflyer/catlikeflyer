@@ -1,27 +1,26 @@
-### Hi there 👋 I'm D.H.
+### Hello there 👋 I'm D.H.
 
-Robotics student at the Monterrey Institute of Technology. Avid fan of business analytics, music, cinematography, sports (⚽🏀🥋), entrepreneurship, and designing. 
-Love to travel and meet new people! Commited to lifelong learning.
+Data Engineer. ML/AI passionate. Avid fan of business analytics, music, cinematography, sports (⚽🏀🥋), entrepreneurship, and designing. 
+Live to travel, travel to live. Commited to lifelong learning.
 
 Working on...
-- 🔬 Scientific computing
+- 🔬 Data pipelines for CPGs
 - 🧠 ML/AI/DL
-- 🌐 Web apps
-- 🎮 Game dev (mini)
+- 🎮 Indie Game Dev
 
-More about me:
-- 🌎 Ex-IB alumni
+TMI:
+- 🌎 IB alumni
 - 🤿 Scuba diver
 - 👾 Big fan of Pokemon, Digimon, Star Wars
-- 📗 Enjoy learning anything
-- I'm a 🇰🇷 living in 🇲🇽
+- 🇨🇦 Study abroad @ UofT
+- 🇰🇷 living in 🇲🇽
 
-Feel free to contact, criticize, help or ark me!
-- IG: [@catlikeflyer](https://www.instagram.com/catlikeflyer/)
+Reach me here:
+- IG: [@dh02nam](https://www.instagram.com/dh02nam/)
 - LinkedIn: [Do Hyun Nam](https://www.linkedin.com/in/dohyunnam)
-- Website: [dhnam.space](https://dhnam.space)
+- Website: [dhnam.me](https://dhnam.me)
 
-[![Do's Github Stats](https://github-readme-stats.vercel.app/api?username=dollis2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Do's Github Stats](https://github-readme-stats.vercel.app/api?username=catlikeflyer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dollis2002/dollis2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
